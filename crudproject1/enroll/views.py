@@ -45,3 +45,8 @@ def delete_data(req, id):
     return HttpResponseRedirect('/')
 
 
+
+
+
+
+
